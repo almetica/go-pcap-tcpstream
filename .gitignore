@@ -1,0 +1,4 @@
+go-pcap*
+*.pcap
+*.bin
+*.raw
